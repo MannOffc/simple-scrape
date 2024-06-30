@@ -1,0 +1,31 @@
+{
+  "name": "xazu-api",
+  "version": "1.0.0",
+  "description": "The library scraper for WhatsApp bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannOffc/scraper.git"
+  },
+  "keywords": [
+    "api",
+    "rest-api",
+    "scrape",
+    "scraper",
+    "web-scraping",
+    "web-scrape",
+    "xazu-api"
+  ],
+  "author": "MannOffc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MannOffc/scraper/issues"
+  },
+  "homepage": "https://github.com/MannOffc/scraper#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+  }
+}
